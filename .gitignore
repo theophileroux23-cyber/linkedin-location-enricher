@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Local data — never commit a real prospect list
+*.local.csv
+output/
+results/
